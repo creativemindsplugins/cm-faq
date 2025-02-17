@@ -3,11 +3,13 @@
 * Name: CM WordPress FAQ Plugin
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Description
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/faq-plugin-for-wordpress-by-creativeminds/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/frequently-asked-questions-plugin/)  | [Demo](https://www.knowledgetrail.com/route-manager-frequently-asked-questions/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/595-faq-cmf) 
+
+⭐ The new CM FAQ is here! Now with a Setup Wizard, improved search options, basic styling controls, and customizable front-end labels for seamless FAQ management.
 
 **Our WordPress FAQ plugin simplifies the process of crafting and overseeing FAQ sections, ensuring your users have smooth and immediate access to common inquiries.**
 
@@ -51,6 +53,10 @@ The [Premium versions of the FAQ Plugin](https://www.cminds.com/wordpress-plugin
 * **Categorization**: Organize queries and their solutions into distinct groups.
 * **Index Compilation**: Assemble a master page that lists all questions alongside their answers.
 * **Individual Posts**: Generate a dedicated post for each query and its resolution.
+* **Search Support**: Allows users searching questions.
+* **Customization**: Supports basic appearance settings.
+* **Labels Support**: Allows admin to edit front-end labels.
+* **Setup Wizard**: Setup Wizard helps configure the plugin quickly and easily.
 
 </details>
 
@@ -70,6 +76,7 @@ The [Premium versions of the FAQ Plugin](https://www.cminds.com/wordpress-plugin
 * **Usage Analytics**: Produce detailed reports tracking the frequency of views and votes for each question.
 * **Single-Response Display**: Utilize an accordion layout to show one answer at a time, allowing users to switch between them by clicking on the questions.
 * **Accordion Shortcode**: Employ a shortcode to create an accordion-style FAQ that groups all Questions and Answers under a category.
+* **Accordion Appearance Settings**: Allows customizing the accordion view appearance.
 * **Visual Categorization**: Assign icons and select background colors for each category, which will be displayed on the index page.
 * **Category Sorting**: Define the order of questions within a category in the WordPress FAQ plugin settings, with options to sort by publication date, popularity, or title.
 * **Comprehensive Question Shortcode**: Use shortcodes to display all questions across single or multiple categories.
